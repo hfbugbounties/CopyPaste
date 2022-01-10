@@ -1,0 +1,2 @@
+# CopyPaste
+CopyPasteExploit-ReplaceClipboardAndRun
